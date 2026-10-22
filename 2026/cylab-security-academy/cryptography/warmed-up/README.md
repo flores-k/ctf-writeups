@@ -51,7 +51,7 @@ academy{61}
 ---
 ## Takeaways
 
-- I learned how to use CyberChef. Specifically, the coversion of base 16 to base 10
+- I learned how to use CyberChef. Specifically, the conversion of base 16 to base 10
 
 ---
 
