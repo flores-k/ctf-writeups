@@ -30,6 +30,7 @@ Each challenge has its own folder containing:
 | cylab-security-academy 2026 | Cryptography | [Mod 26](2026/cylab-security-academy/cryptography/mod-26/README.md) | Easy |
 | cylab-security-academy 2026 | Cryptography | [Warmed Up](2026/cylab-security-academy/cryptography/warmed-up/README.md) | Easy |
 | cylab-security-academy 2026 | Cryptography | [2warm](2026/cylab-security-academy/cryptography/2warm/README.md) | Easy |
+| cylab-security-academy 2026 | Cryptography | [bases](2026/cylab-security-academy/cryptography/bases/README.md) | Easy |
 
 ## Disclaimer
 
